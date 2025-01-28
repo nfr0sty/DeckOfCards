@@ -1,0 +1,15 @@
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/bin/Debug/net7.0/DeckOfCards
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/bin/Debug/net7.0/DeckOfCards.deps.json
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/bin/Debug/net7.0/DeckOfCards.runtimeconfig.json
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/bin/Debug/net7.0/DeckOfCards.dll
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/bin/Debug/net7.0/DeckOfCards.pdb
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.csproj.AssemblyReference.cache
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.AssemblyInfoInputs.cache
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.AssemblyInfo.cs
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.dll
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/refint/DeckOfCards.dll
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.pdb
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/DeckOfCards.genruntimeconfig.cache
+/Users/nick/D/MyProject/DeckOfCards/DeckOfCards/obj/Debug/net7.0/ref/DeckOfCards.dll
